@@ -5,14 +5,23 @@ ft_printf is a project at 42 school that involves implementing a custom version 
 The following conversions are implemented :
 
 %c: Displays a single character.
+
 %s: Displays a string of characters (as defined by the C convention).
+
 %p: The void * pointer argument is displayed in hexadecimal.
+
 %d: Displays a decimal number (base 10).
+
 %i: Displays an integer in base 10.
+
 %u: Displays an unsigned decimal number (base 10).
+
 %x: Displays a number in hexadecimal (base 16) with lowercase letters.
+
 %X: Displays a number in hexadecimal (base 16) with uppercase letters.
+
 %%: Displays a percentage sign
+
 
 ## Getting Started
 
